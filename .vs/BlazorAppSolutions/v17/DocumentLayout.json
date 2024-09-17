@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8386F5BA-7AA5-4CA2-9B04-BE016EE380C1}|BlazorApp\\BlazorApp.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazorapp\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8386F5BA-7AA5-4CA2-9B04-BE016EE380C1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8386F5BA-7AA5-4CA2-9B04-BE016EE380C1}|BlazorApp\\BlazorApp.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazorapp\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8386F5BA-7AA5-4CA2-9B04-BE016EE380C1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8386F5BA-7AA5-4CA2-9B04-BE016EE380C1}|BlazorApp\\BlazorApp.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8386F5BA-7AA5-4CA2-9B04-BE016EE380C1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\controllers\\specialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\controllers\\specialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8386F5BA-7AA5-4CA2-9B04-BE016EE380C1}|BlazorApp\\BlazorApp.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazorapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8386F5BA-7AA5-4CA2-9B04-BE016EE380C1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8386F5BA-7AA5-4CA2-9B04-BE016EE380C1}|BlazorApp\\BlazorApp.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazorapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8386F5BA-7AA5-4CA2-9B04-BE016EE380C1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\data\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\data\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\model\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\model\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,68 +49,102 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TodoItem.cs",
-              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazorApp\\TodoItem.cs",
-              "RelativeDocumentMoniker": "BlazorApp\\TodoItem.cs",
-              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazorApp\\TodoItem.cs",
-              "RelativeToolTip": "BlazorApp\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T11:28:31.998Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazorApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazorApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "BlazorApp\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T11:23:01.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Todo.razor",
-              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazorApp\\Components\\Pages\\Todo.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Todo.razor",
-              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazorApp\\Components\\Pages\\Todo.razor",
-              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Todo.razor",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T11:22:37.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazorApp\\Components\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Counter.razor",
-              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazorApp\\Components\\Pages\\Counter.razor",
-              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T10:57:02.415Z",
+              "Title": "SpecialsController.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Controllers\\SpecialsController.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Controllers\\SpecialsController.cs",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Controllers\\SpecialsController.cs",
+              "RelativeToolTip": "BlazingPizza\\Controllers\\SpecialsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:52:58.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Home.razor",
-              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazorApp\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Home.razor",
-              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazorApp\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Title": "PizzaStoreContext.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Data\\PizzaStoreContext.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Data\\PizzaStoreContext.cs",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Data\\PizzaStoreContext.cs",
+              "RelativeToolTip": "BlazingPizza\\Data\\PizzaStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:49:01.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaSpecial.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Model\\PizzaSpecial.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Model\\PizzaSpecial.cs",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Model\\PizzaSpecial.cs",
+              "RelativeToolTip": "BlazingPizza\\Model\\PizzaSpecial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:33:15.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazingPizza\\Pages\\Index.razor",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazingPizza\\Pages\\Index.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T10:40:28.99Z",
+              "WhenOpened": "2024-09-17T10:31:10.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Program.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Program.cs",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Program.cs",
+              "RelativeToolTip": "BlazingPizza\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:30:33.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Data\\SeedData.cs",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Data\\SeedData.cs",
+              "RelativeToolTip": "BlazingPizza\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wEIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:58:37.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\App.razor",
+              "RelativeDocumentMoniker": "BlazingPizza\\App.razor",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\App.razor",
+              "RelativeToolTip": "BlazingPizza\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T10:31:03.587Z",
               "EditorCaption": ""
             }
           ]
