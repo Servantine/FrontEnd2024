@@ -22,8 +22,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/\!Kuliah/Frontend new/BlazorAppSolutions/BlazingPizza/Pages/Checkout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/\!Kuliah/Frontend new/BlazorAppSolutions/BlazingPizza/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!Kuliah/Frontend new/BlazorAppSolutions/BlazingPizza/Pages/MyOrders.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlcnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/\!Kuliah/Frontend new/BlazorAppSolutions/BlazingPizza/Shared/ConfigurePizzaDialog.razor]

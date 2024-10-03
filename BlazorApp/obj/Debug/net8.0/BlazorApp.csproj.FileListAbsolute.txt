@@ -27,3 +27,4 @@ D:\!Kuliah\Frontend new\BlazorAppSolutions\BlazorApp\obj\Debug\net8.0\refint\Bla
 D:\!Kuliah\Frontend new\BlazorAppSolutions\BlazorApp\obj\Debug\net8.0\BlazorApp.pdb
 D:\!Kuliah\Frontend new\BlazorAppSolutions\BlazorApp\obj\Debug\net8.0\BlazorApp.genruntimeconfig.cache
 D:\!Kuliah\Frontend new\BlazorAppSolutions\BlazorApp\obj\Debug\net8.0\ref\BlazorApp.dll
+D:\!Kuliah\Frontend new\BlazorAppSolutions\BlazorApp\obj\Debug\net8.0\BlazorApp.sourcelink.json

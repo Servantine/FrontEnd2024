@@ -1,5 +1,51 @@
 [
   {
+    "ContainingType": "BlazingPizza.Services.OrdersController",
+    "Method": "GetOrders",
+    "RelativePath": "orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[BlazingPizza.OrderWithStatus, BlazingPizza, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingPizza.Services.OrdersController",
+    "Method": "PlaceOrder",
+    "RelativePath": "orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "BlazingPizza.Order",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "BlazingPizza.Controllers.SpecialsController",
     "Method": "GetSpecials",
     "RelativePath": "specials",
