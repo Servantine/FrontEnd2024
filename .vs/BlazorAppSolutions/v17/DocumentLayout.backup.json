@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\pages\\checkout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\pages\\checkout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,20 +15,44 @@
       "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\pages\\myorders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\services\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\services\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\pages\\checkout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\pages\\checkout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\services\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\services\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\data\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\data\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\model\\orderwithstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\model\\orderwithstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\services\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\services\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\services\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\services\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\shared\\configurepizzadialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -41,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\model\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\model\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|d:\\!kuliah\\frontend new\\blazorappsolutions\\blazingpizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{363CA1BC-30C2-47A7-B65A-C7CA00809635}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,15 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
@@ -74,59 +90,116 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Model\\Order.cs",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Model\\Order.cs",
+              "RelativeToolTip": "BlazingPizza\\Model\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:27:30.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "BlazingPizza\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\Error.cshtml",
+              "RelativeToolTip": "BlazingPizza\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T12:14:07.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checkout.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\Checkout.razor",
+              "RelativeDocumentMoniker": "BlazingPizza\\Pages\\Checkout.razor",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\Checkout.razor",
+              "RelativeToolTip": "BlazingPizza\\Pages\\Checkout.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T12:16:45.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazingPizza\\Pages\\Index.razor",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazingPizza\\Pages\\Index.razor",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T10:20:06.969Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MyOrders.razor",
               "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\MyOrders.razor",
               "RelativeDocumentMoniker": "BlazingPizza\\Pages\\MyOrders.razor",
               "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\MyOrders.razor",
               "RelativeToolTip": "BlazingPizza\\Pages\\MyOrders.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T12:26:25.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Services\\OrderController.cs",
-              "RelativeDocumentMoniker": "BlazingPizza\\Services\\OrderController.cs",
-              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Services\\OrderController.cs",
-              "RelativeToolTip": "BlazingPizza\\Services\\OrderController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowB4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T12:24:09.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T12:26:25.191Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "BlazingPizza\\Pages\\_Host.cshtml",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "BlazingPizza\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T12:55:49.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PizzaStoreContext.cs",
               "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Data\\PizzaStoreContext.cs",
               "RelativeDocumentMoniker": "BlazingPizza\\Data\\PizzaStoreContext.cs",
               "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Data\\PizzaStoreContext.cs",
               "RelativeToolTip": "BlazingPizza\\Data\\PizzaStoreContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T12:21:39.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T12:21:39.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Checkout.razor",
-              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\Checkout.razor",
-              "RelativeDocumentMoniker": "BlazingPizza\\Pages\\Checkout.razor",
-              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\Checkout.razor",
-              "RelativeToolTip": "BlazingPizza\\Pages\\Checkout.razor",
-              "ViewState": "AgIAACsAAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T12:16:45.117Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "OrderWithStatus.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Model\\OrderWithStatus.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Model\\OrderWithStatus.cs",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Model\\OrderWithStatus.cs",
+              "RelativeToolTip": "BlazingPizza\\Model\\OrderWithStatus.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:31:10.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Data\\SeedData.cs",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Data\\SeedData.cs",
+              "RelativeToolTip": "BlazingPizza\\Data\\SeedData.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:35:16.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "App.razor",
               "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\App.razor",
               "RelativeDocumentMoniker": "BlazingPizza\\App.razor",
@@ -134,12 +207,11 @@
               "RelativeToolTip": "BlazingPizza\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T12:15:37.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T12:15:37.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Program.cs",
               "RelativeDocumentMoniker": "BlazingPizza\\Program.cs",
@@ -151,20 +223,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.razor",
-              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "BlazingPizza\\Pages\\Index.razor",
-              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Pages\\Index.razor",
-              "RelativeToolTip": "BlazingPizza\\Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T10:20:06.969Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "OrderState.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Services\\OrderState.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Services\\OrderState.cs",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Services\\OrderState.cs",
+              "RelativeToolTip": "BlazingPizza\\Services\\OrderState.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:48:13.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Services\\OrderController.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Services\\OrderController.cs",
+              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Services\\OrderController.cs",
+              "RelativeToolTip": "BlazingPizza\\Services\\OrderController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:24:09.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "BlazingPizza\\Shared\\MainLayout.razor",
@@ -176,20 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderState.cs",
-              "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Services\\OrderState.cs",
-              "RelativeDocumentMoniker": "BlazingPizza\\Services\\OrderState.cs",
-              "ToolTip": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Services\\OrderState.cs",
-              "RelativeToolTip": "BlazingPizza\\Services\\OrderState.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T10:48:13.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "ConfigurePizzaDialog.razor",
               "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Shared\\ConfigurePizzaDialog.razor",
               "RelativeDocumentMoniker": "BlazingPizza\\Shared\\ConfigurePizzaDialog.razor",
@@ -201,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "PizzaSpecial.cs",
               "DocumentMoniker": "D:\\!Kuliah\\Frontend new\\BlazorAppSolutions\\BlazingPizza\\Model\\PizzaSpecial.cs",
               "RelativeDocumentMoniker": "BlazingPizza\\Model\\PizzaSpecial.cs",
