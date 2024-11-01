@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!Kuliah\\UTS Frontend\\utss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\components\\pages\\courses.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\components\\pages\\courses.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\components\\pages\\add-course.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\components\\pages\\add-course.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\components\\pages\\add-category.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\components\\pages\\add-category.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\services\\coursesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\services\\coursesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|d:\\!kuliah\\uts frontend\\utss\\utssapi\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D171E202-F3BF-4FCF-BEC8-6BFB7A2EBBF0}|utssapi\\utssapi.csproj|solutionrelative:utssapi\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add-course.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Pages\\Add-course.razor",
+              "RelativeDocumentMoniker": "utssapi\\Components\\Pages\\Add-course.razor",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Pages\\Add-course.razor",
+              "RelativeToolTip": "utssapi\\Components\\Pages\\Add-course.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T13:55:57.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoursesService.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Services\\CoursesService.cs",
+              "RelativeDocumentMoniker": "utssapi\\Services\\CoursesService.cs",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Services\\CoursesService.cs",
+              "RelativeToolTip": "utssapi\\Services\\CoursesService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:05:24.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "utssapi\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "utssapi\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T13:03:03.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "utssapi\\Models\\Course.cs",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Models\\Course.cs",
+              "RelativeToolTip": "utssapi\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:57:13.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Courses.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Pages\\Courses.razor",
+              "RelativeDocumentMoniker": "utssapi\\Components\\Pages\\Courses.razor",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Pages\\Courses.razor",
+              "RelativeToolTip": "utssapi\\Components\\Pages\\Courses.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:56:47.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "utssapi\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "utssapi\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T14:08:36.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "utssapi\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "utssapi\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:31:31.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "utssapi\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "utssapi\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:31:28.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add-category.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Pages\\Add-category.razor",
+              "RelativeDocumentMoniker": "utssapi\\Components\\Pages\\Add-category.razor",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Pages\\Add-category.razor",
+              "RelativeToolTip": "utssapi\\Components\\Pages\\Add-category.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:25:43.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\appsettings.json",
+              "RelativeDocumentMoniker": "utssapi\\appsettings.json",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\appsettings.json",
+              "RelativeToolTip": "utssapi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T15:08:41.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "utssapi\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "utssapi\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:06:11.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "utssapi\\Components\\_Imports.razor",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\_Imports.razor",
+              "RelativeToolTip": "utssapi\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:06:06.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\App.razor",
+              "RelativeDocumentMoniker": "utssapi\\Components\\App.razor",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\App.razor",
+              "RelativeToolTip": "utssapi\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:06:00.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "utssapi\\Components\\Routes.razor",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Components\\Routes.razor",
+              "RelativeToolTip": "utssapi\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:05:56.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesService.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Services\\CategoriesService.cs",
+              "RelativeDocumentMoniker": "utssapi\\Services\\CategoriesService.cs",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Services\\CategoriesService.cs",
+              "RelativeToolTip": "utssapi\\Services\\CategoriesService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:05:14.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "utssapi\\Models\\Categories.cs",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Models\\Categories.cs",
+              "RelativeToolTip": "utssapi\\Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:04:55.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Program.cs",
+              "RelativeDocumentMoniker": "utssapi\\Program.cs",
+              "ToolTip": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\Program.cs",
+              "RelativeToolTip": "utssapi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:03:17.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

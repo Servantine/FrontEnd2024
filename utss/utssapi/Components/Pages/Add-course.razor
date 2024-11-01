@@ -1,0 +1,61 @@
+﻿@page "/Add-course"
+@using utssapi.Models
+@using utssapi.Services
+@inject IJSRuntime JS
+@inject CoursesService CoursesService
+
+<h3>Add Course</h3>
+
+<div class="form-group">
+    <label>Course Name</label>
+    <input @bind="course.name" class="form-control" placeholder="Course Name" />
+    @if (string.IsNullOrWhiteSpace(course.name))
+    {
+        <span class="text-danger">Course name is required.</span>
+    }
+</div>
+
+<div class="form-group">
+    <label>Image Name</label>
+    <input @bind="course.imageName" class="form-control" placeholder="Image Name" />
+</div>
+
+<div class="form-group">
+    <label>Duration (hours)</label>
+    <input type="number" @bind="course.duration" class="form-control" placeholder="Duration in hours" />
+</div>
+
+<div class="form-group">
+    <label>Description</label>
+    <textarea @bind="course.description" class="form-control" placeholder="Description"></textarea>
+</div>
+
+<div class="form-group">
+    <label>Category ID</label>
+    <input type="number" @bind="course.categoryId" class="form-control" placeholder="Category ID" />
+</div>
+
+<button class="btn btn-primary" @onclick="AddCourse" disabled="@(string.IsNullOrWhiteSpace(course.name))">Submit</button>
+
+@code {
+    private Course course = new Course
+        {
+            name = ""
+        };
+
+    private async Task AddCourse()
+    {
+        await JS.InvokeVoidAsync("console.log", "Button clicked for adding course");
+
+        try
+        {
+            await JS.InvokeVoidAsync("console.log", "Attempting to add course:", course);
+            var createdCourse = await CoursesService.CreateCourseAsync(course);
+            await JS.InvokeVoidAsync("console.log", "Course added successfully:", createdCourse);
+        }
+        catch (HttpRequestException ex)
+        {
+            await JS.InvokeVoidAsync("console.error", "Error adding course:", ex.Message);
+        }
+    }
+}

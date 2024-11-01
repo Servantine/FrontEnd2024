@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\utssapi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\utssapi.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\!Kuliah\\UTS Frontend\\utss\\utssapi\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.utssapi.props",
+      "PackagePath": "build\\utssapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.utssapi.props",
+      "PackagePath": "buildMultiTargeting\\utssapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.utssapi.props",
+      "PackagePath": "buildTransitive\\utssapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.utssapi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,74 @@
+﻿@page "/courses"
+@inject NavigationManager NavigationManager
+@inject CoursesService CoursesService
+@using utssapi.Models
+@using utssapi.Services
+
+<h3>Courses</h3>
+<div class="mb-3">
+    <button class="btn btn-success" @onclick="NavigateToAddCourse">Add Course</button>
+</div>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Course ID</th>
+                <th scope="col">Name</th>
+                <th scope="col">Image</th>
+                <th scope="col">Duration (hrs)</th>
+                <th scope="col">Description</th>
+                <th scope="col">Category ID</th>
+                <th scope="col">Actions</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @if (courses != null && courses.Any())
+            {
+                @foreach (var course in courses)
+                {
+                    <tr>
+                        <td>@course.courseId</td>
+                        <td>@course.name</td>
+                        <td>@(string.IsNullOrEmpty(course.imageName) ? "N/A" : course.imageName)</td>
+                        <td>@(course.duration.HasValue ? course.duration.Value.ToString("F2") : "N/A")</td>
+                        <td>@course.description</td>
+                        <td>@course.categoryId</td>
+                        <td>
+                            <button class="btn btn-primary">Edit</button>
+                            <button class="btn btn-danger" @onclick="() => DeleteCourse(course.courseId)">Delete</button>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="7" class="text-center">No courses available.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@code {
+
+    private List<Course> courses = new List<Course>();  
+
+    protected override async Task OnInitializedAsync()
+    {
+        courses = await CoursesService.GetCoursesAsync();
+    }
+
+    private void NavigateToAddCourse()
+    {
+        NavigationManager.NavigateTo("/Add-course");
+    }
+
+    private async Task DeleteCourse(int id)
+    {
+        await CoursesService.DeleteCourseAsync(id);
+        courses = await CoursesService.GetCoursesAsync();
+    }
+}

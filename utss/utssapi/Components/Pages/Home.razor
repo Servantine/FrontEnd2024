@@ -1,0 +1,67 @@
+﻿@page "/"
+@inject NavigationManager NavigationManager
+@using utssapi.Services;
+@using utssapi.Models;
+@inject CategoriesService CategoriesService
+
+<h1> Categories </h1>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Category ID</th>
+                <th scope="col">Name</th>
+                <th scope="col">Description</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (categories != null && categories.Any())
+            {
+                @foreach (var categorie in categories)
+                {
+                    <tr>
+                        <td>@categorie.categoryId</td>
+                        <td>@categorie.name</td>
+                        <td>@categorie.description</td>
+                        <td>
+
+                            <button class="btn btn-primary">Edit</button>
+                            <button class="btn btn-danger" @onclick="() => DeleteProduct(categorie.categoryId)">Delete</button>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="4" class="text-center">No categories available.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<a href="/add-category" class="btn btn-primary btn-sm" role="button">Add New Categories</a>
+
+
+
+@code {
+
+    private List<Categories> categories = new List<Categories>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        categories = await CategoriesService.GetCategoriesAsync();
+    }
+    private void NavigateToAddCategory()
+    {
+        NavigationManager.NavigateTo("/add-category");
+    }
+
+    private async Task DeleteProduct(int id)
+    {
+        await CategoriesService.DeleteCategoryAsync(id);
+        categories = await CategoriesService.GetCategoriesAsync();
+    }
+}

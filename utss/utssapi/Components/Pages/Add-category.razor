@@ -1,0 +1,39 @@
+﻿@page "/Add-category"
+@using utssapi.Models
+@using utssapi.Services
+@inject IJSRuntime JS
+@inject CategoriesService CategoriesService
+
+<h3>Tambah Kategori</h3>
+
+<div class="form-group">
+    <label>Nama Kategori</label>
+    <input @bind="category.name" class="form-control" placeholder="Nama Kategori" />
+</div>
+<div class="form-group">
+    <label>Deskripsi Kategori</label>
+    <input @bind="category.description" class="form-control" placeholder="Deskripsi Kategori" />
+</div>
+<button @onclick="AddCategory">Submit</button>
+
+@code {
+    private Categories category = new Categories();
+
+    private async Task AddCategory()
+    {
+       
+        await JS.InvokeVoidAsync("console.log", "Button clicked");
+
+        
+        try
+        {
+            await JS.InvokeVoidAsync("console.log", "Attempting to add category:", category);
+            var createdCategory = await CategoriesService.CreateCategoryAsync(category);
+            await JS.InvokeVoidAsync("console.log", "Category added successfully:", createdCategory);
+        }
+        catch (HttpRequestException ex)
+        {
+            await JS.InvokeVoidAsync("console.error", "Error adding category:", ex.Message);
+        }
+    }
+}
