@@ -1,4 +1,3 @@
-﻿<h3>ConfigurePizzaDialog</h3>
 @inject HttpClient HttpClient
 
 <div class="dialog-container">
@@ -26,11 +25,11 @@
         </div>
     </div>
 </div>
+
 @code {
-    @code {
-        [Parameter] public Pizza Pizza { get; set; }
-        [Parameter] public EventCallback OnCancel { get; set; }
-        [Parameter] public EventCallback OnConfirm { get; set; }
-    }
+
+    [Parameter] public Pizza Pizza { get; set; }
+    [Parameter] public EventCallback OnCancel { get; set; }
+    [Parameter] public EventCallback OnConfirm { get; set; }
 
 }

@@ -1,23 +1,19 @@
-
-
-using BlazingPizza.Data;
-using BlazingPizza.Services;
-
+using BlazingPizza;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+// Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
-builder.Services.AddScoped<OrderState>();
-
 builder.Services.AddHttpClient();
-
-//menambahkan sqllite
-builder.Services.AddSqlite<PizzaStoreContext>("Data Source=pizza.db");
+builder.Services.AddDbContext<PizzaStoreContext>(options => 
+    options.UseSqlite("Data Source=pizza.db"));
+builder.Services.AddScoped<OrderState>();
 
 var app = builder.Build();
 
+// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
@@ -26,12 +22,12 @@ if (!app.Environment.IsDevelopment())
 app.UseStaticFiles();
 app.UseRouting();
 
-
 app.MapRazorPages();
 app.MapBlazorHub();
 app.MapFallbackToPage("/_Host");
 app.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
 
+// Initialize the database
 var scopeFactory = app.Services.GetRequiredService<IServiceScopeFactory>();
 using (var scope = scopeFactory.CreateScope())
 {
